@@ -40,8 +40,8 @@ if ($_GET['id'] == $column_rating[0]) {
 }
 $n++;
 ?>
-<?php if ($total_rating >= 36 && $n % 12 === 0) {?><div class="col-xs-12 col-sm-2 col-md-3 col-xl-3"><?php }?>
-    <div class="col-xs-12 col-sm-2 col-md-3 col-xl-3" align="center">
+<?php if ($total_rating >= 36 && $n % 12 === 0) {?><div class="col-xs-12 col-sm-6 col-md-4 col-xl-3"><?php }?>
+    <div class="col-xs-12 col-sm-6 col-md-4 col-xl-3" align="center">
     	<a href="radio_list.php?id=<?=$radio[$column_rating[0]][0]?>">
         <br><img src="<?=$radio[$column_rating[0]][3]?>" height="72px" alt=""/><br><?=$radio[$column_rating[0]][2]?><br><span class="text-muted"><sub><?=$radio[$column_rating[0]][4]?>, <?=$radio[$column_rating[0]][5]?></sub><br><sup><?=$radio[$column_rating[0]][6]?></sup></span><br>
     	</a>
