@@ -120,6 +120,58 @@ $last_key = in_string('{-}','{,}',$data_storage);
 	}
 }
 
+// format: file name , database unique key
+function key_db ($filename,$key){ // output: row data at specific key
+if ($key == '') {$out = array(); return $out;}
+$data = "{-}".$key."{,}";
+$data_storage = read_file($filename);
+if (!stristr($data_storage,$data)) {return;}
+$find_key = substr($data_storage, strpos($data_storage, $data));
+$find_key = substr($find_key,0, strpos($find_key, "\n{-}"));
+if ($find_key == '') {$find_key = substr($data_storage, strpos($data_storage, $data));}
+$data_storage = str_replace("\n\n","\n",$data_storage);
+$out = explode ("{,}",$find_key);
+return $out;
+}
+
+function array_sort($array, $column_data, $order=SORT_ASC)
+{
+    $new_array = array();
+    $sortable_array = array();
+
+    if (count($array) > 0) {
+        foreach ($array as $k => $v) {
+            if (is_array($v)) {
+                foreach ($v as $k2 => $v2) {
+                    if ($k2 == $column_data) {
+                        $sortable_array[$k] = $v2;
+                    }
+                }
+            } else {
+                $sortable_array[$k] = $v;
+            }
+        }
+
+        switch ($order) {
+            case SORT_ASC:
+                asort($sortable_array);
+            break;
+            case SORT_DESC:
+                arsort($sortable_array);
+            break;
+			case SORT_NUM:
+				natsort($sortable_array);
+            break;
+        }
+
+        foreach ($sortable_array as $k => $v) {
+            $new_array[$k] = $array[$k];
+        }
+    }
+
+    return $new_array;
+}
+
 function in_string($start, $end, $string) 
 { 
 	if ($start == '') {$string = '{#}'.$string; $start = '{#}'; }

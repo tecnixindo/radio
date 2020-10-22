@@ -1,0 +1,25 @@
+
+{-}24{,}http://103.28.148.18:9006/;{,}RAS FM Jakarta{,}https://cdn.onlineradiobox.com/img/logo/1/83921.v6.png{,}Jakarta{,}Indonesia{,}Islamic,Education,Entertainment{,}{,}
+{-}23{,}http://203.24.76.112:8000/stream{,}Radio Rasil{,}https://cdn.onlineradiobox.com/img/logo/1/18981.v2.png{,}Jakarta{,}Indonesia{,}Islamic,News,Talk{,}{,}
+{-}22{,}http://u.klikhost.net:7102/stream?type=http&nocache=12{,}SAS FM Surabaya{,}https://cdn.onlineradiobox.com/img/logo/5/19265.v3.png{,}Surabaya{,}Indonesia{,}Islamic,Education,Entertainment{,}{,}
+{-}21{,}http://45.32.103.238:8117/live{,}Radio Kajian Islam{,}https://cdn.onlineradiobox.com/img/logo/1/89831.v8.png{,}Kediri{,}Indonesia{,}Islamic,Talk{,}{,}
+{-}20{,}http://live.radiosunnah.net/;stream.nsv{,}Radio KITA Cirebon{,}https://cdn.onlineradiobox.com/img/logo/4/20384.v3.png{,}Cirebon{,}Indonesia{,}Islamic,News,Talk{,}{,}
+{-}19{,}http://stream.idreamradio.id:8002/;{,}iDream Radio{,}https://cdn.onlineradiobox.com/img/logo/6/70696.v15.png{,}Depok{,}Indonesia{,}Islamic,Education,Entertainment{,}{,}
+{-}18{,}http://175.103.49.108:8000/;{,}Krakatau Radio{,}https://cdn.onlineradiobox.com/img/logo/7/18997.v4.png{,}Banten{,}Indonesia{,}Islamic,Pop,Ethnic{,}{,}
+{-}17{,}http://streaming.mqfmnetwork.com:8300/;stream.nsv{,}MQ FM{,}https://cdn.onlineradiobox.com/img/logo/8/18808.v8.png{,}Jakarta{,}Indonesia{,}Islamic,Education,Entertainment{,}{,}
+{-}16{,}https://masima.rastream.com/masima-femaleradio{,}Female Radio{,}https://cdn.onlineradiobox.com/img/logo/6/60996.v3.png{,}Jakarta{,}Indonesia{,}Adult Contemporary{,}{,}
+{-}15{,}http://live.deltafm.net:9002/;{,}Delta FM{,}https://cdn.onlineradiobox.com/img/logo/8/58058.v10.png{,}Jakarta{,}Indonesia{,}Pop,Talk{,}{,}
+{-}14{,}http://jkt.jogjastreamers.com:8000/swaragama456789stereo{,}Swaragama Jogja{,}https://cdn.onlineradiobox.com/img/logo/4/18984.v10.png{,}Jogja{,}Indonesia{,}Pop,Hits,Education{,}{,}
+{-}13{,}http://masima.rastream.com/masima-pramborssemarang{,}Prambors Semarang{,}https://static.mytuner.mobi/media/tvos_radios/yvs23sve77nv.png{,}Semarang{,}Indonesia{,}Pop,Hits,News{,}{,}
+{-}12{,}http://masima.rastream.com/masima-pramborssolo{,}Prambors Solo{,}https://static.mytuner.mobi/media/tvos_radios/p37fjvgc6wdr.png{,}Solo{,}Indonesia{,}Pop,Hits,News{,}{,}
+{-}11{,}http://masima.rastream.com/masima-pramborssurabaya?{,}Prambors Surabaya{,}https://static.mytuner.mobi/media/radios-150px/8weW8jksdR.png{,}Surabaya{,}Indonesia{,}Pop,Hits,News{,}{,}
+{-}10{,}https://radioislamindonesia.com:7000/;stream.mp3{,}Rodja Bogor{,}https://cdn.onlineradiobox.com/img/logo/7/19157.v12.png{,}Bogor{,}Indonesia{,}Islamic,Education{,}{,}
+{-}9{,}http://masima.rastream.com/masima-pramborsyogya?{,}Prambors Jogja{,}https://static.mytuner.mobi/media/radios-150px/NPy2hgCQMD.png{,}Jogja{,}Indonesia{,}Pop,Hits,News{,}{,}
+{-}8{,}http://128.199.156.6/;{,}Radio Muslim Jogja{,}https://cdn.onlineradiobox.com/img/logo/4/20374.v3.png{,}Jogja{,}Indonesia{,}Islamic,Education{,}{,}
+{-}7{,}http://usa.jogjastreamers.com:8000/rbfm456789stereo{,}Retjo Buntung{,}http://jogjastreamers.com/cni-content/uploads/modules/radio/thumbs/small/20190122042124.jpg{,}Jogja{,}Indonesia{,}Pop,Hits{,}{,}
+{-}6{,}http://usa.jogjastreamers.com:8000/rakosa787878stereo{,}Rakosa{,}http://jogjastreamers.com/cni-content/uploads/modules/radio/thumbs/small/20200818095711.png{,}Jogja{,}Indonesia{,}Pop,News,Women{,}{,}
+{-}5{,}https://stream.radiojar.com/rrqf78p3bnzuv{,}Trax FM{,}https://cdn.onlineradiobox.com/img/logo/6/18806.v8.png{,}Jakarta{,}Indonesia{,}Pop,Top 40{,}{,}
+{-}4{,}https://stream.radiojar.com/7csmg90fuqruv{,}HardRock FM Jakarta{,}https://cdn.onlineradiobox.com/img/logo/0/18880.v11.png{,}Jakarta{,}Indonesia{,}Pop,Jazz,Techno,Alternative{,}{,}
+{-}3{,}http://ample-09.radiojar.com/4ywdgup3bnzuv?rj-ttl=5&rj-tok=AAABdRCfSyMAFlUVQWHeGW95tQ{,}iRadio Jakarta{,}https://cdn.onlineradiobox.com/img/logo/9/18959.v6.png{,}Jakarta{,}Indonesia{,}Rock,Pop,Jazz{,}{,}
+{-}2{,}http://masima.rastream.com/masima-pramborsbandung{,}Prambors Bandung{,}https://static.mytuner.mobi/media/radios-150px/QA75RFX49C.png{,}Bandung{,}Indonesia{,}Musik,Lagu Hit{,}{,}
+{-}1{,}http://u.klikhost.net:7102/stream?type=http&amp;nocache=12{,}Prambors Jakarta{,}https://static.mytuner.mobi/media/radios-150px/UqGjK62g3S.png{,}Jakarta{,}Indonesia{,}Rock,Pop,News{,}{,}
