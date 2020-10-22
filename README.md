@@ -15,5 +15,5 @@
   3. Inspect element on player button
   4. Click Network
   5. Click Media
-  6. Copy link address of streaming media
+  6. Copy link address of streaming media (the long waterfall)
 </pre>
