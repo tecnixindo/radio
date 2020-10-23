@@ -1,4 +1,24 @@
 
+{-}43{,}http://203.30.236.2:9380/;{,}MegaSwara Kulonprogo{,}https://cdn.onlineradiobox.com/img/logo/9/19119.v3.png{,}Jogja{,}Indonesia{,}Talk,Hits,Information{,}{,}
+
+{-}42{,}http://stream.denger.in:8888/dmi{,}Dengerin Musik{,}https://cdn.onlineradiobox.com/img/logo/8/18908.v9.png{,}Jogja{,}Indonesia{,}Pop,Hits{,}{,}
+{-}41{,}http://utyfmedari.us.myradio.web.id:8000/utyfmedari{,}UTY FM Medari{,}https://cdn.onlineradiobox.com/img/logo/3/74783.v4.png{,}Jogja{,}Indonesia{,}Pop,Techno,Country,Hits{,}{,}
+{-}40{,}http://202.162.32.23:8000/;{,}Unisi{,}https://cdn.onlineradiobox.com/img/logo/9/19199.v5.png{,}Jogja{,}Indonesia{,}Pop,Top40{,}{,}
+{-}39{,}http://cloudstreaming.mramedia.com:8006/live{,}iRadio Jogja{,}https://static.mytuner.mobi/media/tvos_radios/XjUArs9BMg.jpg{,}Jogja{,}Indonesia{,}Rock,Pop,Jazz{,}{,}
+{-}38{,}http://radio.dnetprovider.id:8000/StarFM{,}Star FM{,}https://cdn.onlineradiobox.com/img/logo/7/20667.v5.png{,}Jogja{,}Indonesia{,}Rock,Pop{,}{,}
+{-}37{,}http://usa.jogjastreamers.com:8000/geronimo67890?s=54574825896597{,}Geronimo{,}https://static.mytuner.mobi/media/tvos_radios/chpcnjxyuchl.png{,}Jogja{,}Indonesia{,}Dance,Rock,Reggae{,}{,}
+{-}36{,}http://203.30.236.2:9462/;stream.mp3{,}KotaPerak{,}https://static.mytuner.mobi/media/tvos_radios/mjfc7byrudyf.png{,}Jogja{,}Indonesia{,}Rock,Pop,Hits{,}{,}
+{-}35{,}https://playerservices.streamtheworld.com/api/livestream-redirect/VIRGINRADAAC_SC?dist=triton-web&pname=StandardPlayerV4{,}Virgin Radio Jakarta{,}https://static.mytuner.mobi/media/tvos_radios/tnjcldxwqd6q.png{,}Jakarta{,}Indonesia{,}Rock,RnB,Pop,Hits{,}{,}
+{-}34{,}https://live.nagaswarafm.com:9900/stream{,}NagaSwara{,}https://static.mytuner.mobi/media/tvos_radios/WmhYagwvh5.png{,}Bogor{,}Indonesia{,}Pop,Hits{,}{,}
+{-}33{,}http://202.43.173.188:8010/stream/;{,}Suara Giri{,}https://static.mytuner.mobi/media/tvos_radios/sgyw8andwmrw.png{,}Jakarta{,}Indonesia{,}Dangdut,Information{,}{,}
+{-}32{,}http://117.20.55.234:8008/sonorastereo{,}Sonora Jogja{,}https://cdn.onlineradiobox.com/img/logo/8/84058.v5.png{,}Jogja{,}Indonesia{,}News,Entertainment,Business{,}{,}
+{-}31{,}http://r5.siar.us:8711/stream{,}Radio Koncotani{,}https://cdn.onlineradiobox.com/img/logo/8/75278.v4.png{,}Jogja{,}Indonesia{,}Classic,Java{,}{,}
+{-}30{,}https://cdnch5.rri.co.id/web-chlima.mp3{,}RRI Channel 5 Surabaya{,}https://cdn.onlineradiobox.com/img/logo/1/19971.v5.png{,}Surabaya{,}Indonesia{,}Music,Information{,}{,}
+{-}29{,}https://cdnjakartapro4.rri.co.id/web-rrijakartapro4.mp3{,}RRI Pro 4 Jakarta{,}https://cdn.onlineradiobox.com/img/logo/6/18876.v7.png{,}Jakarta{,}Indonesia{,}Culture,Education{,}{,}
+{-}28{,}https://cdnpro3.rri.co.id/web-kbrn.mp3{,}RRI Pro 3 Jogja{,}https://cdn.onlineradiobox.com/img/logo/5/18875.v6.png{,}Jogja{,}Indonesia{,}News,Information{,}{,}
+{-}27{,}https://cdnjakartapro2.rri.co.id/web-rrijakartapro2.mp3{,}RRI Pro 2 Jakarta{,}https://cdn.onlineradiobox.com/img/logo/2/18862.v9.png{,}Jakarta{,}Indonesia{,}Music,Information{,}{,}
+{-}26{,}https://cdnjakartapro1.rri.co.id/web-rrijakartapro1.mp3{,}RRI Pro 1 Jakarta{,}https://cdn.onlineradiobox.com/img/logo/4/18844.v12.png{,}Jakarta{,}Indonesia{,}News,Culture,Entertainment{,}{,}
+{-}25{,}http://202.147.199.101:8000/;{,}Sindo Trijaya Jakarta{,}https://static.mytuner.mobi/media/tvos_radios/AVCR99kQR6.jpg{,}Jakarta{,}Indonesia{,}Pop,Hits,News{,}{,}
 {-}24{,}http://103.28.148.18:9006/;{,}RAS FM Jakarta{,}https://cdn.onlineradiobox.com/img/logo/1/83921.v6.png{,}Jakarta{,}Indonesia{,}Islamic,Education,Entertainment{,}{,}
 {-}23{,}http://203.24.76.112:8000/stream{,}Radio Rasil{,}https://cdn.onlineradiobox.com/img/logo/1/18981.v2.png{,}Jakarta{,}Indonesia{,}Islamic,News,Talk{,}{,}
 {-}22{,}http://u.klikhost.net:7102/stream?type=http&nocache=12{,}SAS FM Surabaya{,}https://cdn.onlineradiobox.com/img/logo/5/19265.v3.png{,}Surabaya{,}Indonesia{,}Islamic,Education,Entertainment{,}{,}
@@ -15,7 +35,7 @@
 {-}11{,}http://masima.rastream.com/masima-pramborssurabaya?{,}Prambors Surabaya{,}https://static.mytuner.mobi/media/radios-150px/8weW8jksdR.png{,}Surabaya{,}Indonesia{,}Pop,Hits,News{,}{,}
 {-}10{,}https://radioislamindonesia.com:7000/;stream.mp3{,}Rodja Bogor{,}https://cdn.onlineradiobox.com/img/logo/7/19157.v12.png{,}Bogor{,}Indonesia{,}Islamic,Education{,}{,}
 {-}9{,}http://masima.rastream.com/masima-pramborsyogya?{,}Prambors Jogja{,}https://static.mytuner.mobi/media/radios-150px/NPy2hgCQMD.png{,}Jogja{,}Indonesia{,}Pop,Hits,News{,}{,}
-{-}8{,}http://128.199.156.6/;{,}Radio Muslim Jogja{,}https://cdn.onlineradiobox.com/img/logo/4/20374.v3.png{,}Jogja{,}Indonesia{,}Islamic,Education{,}{,}
+{-}8{,}https://cp.phpmystream.com/radioSSLnew/s/75{,}Radio Muslim Jogja{,}https://cdn.onlineradiobox.com/img/logo/4/20374.v3.png{,}Jogja{,}Indonesia{,}Islamic,Education{,}{,}
 {-}7{,}http://usa.jogjastreamers.com:8000/rbfm456789stereo{,}Retjo Buntung{,}http://jogjastreamers.com/cni-content/uploads/modules/radio/thumbs/small/20190122042124.jpg{,}Jogja{,}Indonesia{,}Pop,Hits{,}{,}
 {-}6{,}http://usa.jogjastreamers.com:8000/rakosa787878stereo{,}Rakosa{,}http://jogjastreamers.com/cni-content/uploads/modules/radio/thumbs/small/20200818095711.png{,}Jogja{,}Indonesia{,}Pop,News,Women{,}{,}
 {-}5{,}https://stream.radiojar.com/rrqf78p3bnzuv{,}Trax FM{,}https://cdn.onlineradiobox.com/img/logo/6/18806.v8.png{,}Jakarta{,}Indonesia{,}Pop,Top 40{,}{,}

@@ -1,25 +1,45 @@
 
-{-}24{,}RAS FM Jakarta{,}9999{,}{,}
+{-}43{,}MegaSwara Kulonprogo{,}9999{,}{,}
+
+{-}42{,}Dengerin Musik{,}9999{,}{,}
+{-}41{,}UTY FM Medari{,}9999{,}{,}
+{-}40{,}Unisi{,}9999{,}{,}
+{-}39{,}iRadio Jogja{,}9996{,}{,}
+{-}38{,}Star FM{,}9999{,}{,}
+{-}37{,}Geronimo{,}9999{,}{,}
+{-}36{,}KotaPerak{,}9999{,}{,}
+{-}35{,}Virgin Radio Jakarta{,}9998{,}{,}
+{-}34{,}NagaSwara{,}9999{,}{,}
+{-}33{,}Suara Giri{,}9999{,}{,}
+{-}32{,}Sonora Jogja{,}9999{,}{,}
+{-}31{,}Radio Koncotani{,}9998{,}{,}
+{-}30{,}RRI Channel 5 Surabaya{,}9999{,}{,}
+{-}29{,}RRI Pro 4 Jakarta{,}9999{,}{,}
+{-}28{,}RRI Pro 3 Jogja{,}9999{,}{,}
+{-}27{,}RRI Pro 2 Jakarta{,}9999{,}{,}
+{-}26{,}RRI Pro 1 Jakarta{,}9999{,}{,}
+{-}25{,}Sindo Trijaya Jakarta{,}9995{,}{,}
+{-}24{,}RAS FM Jakarta{,}9996{,}{,}
 {-}23{,}Radio Rasil{,}9999{,}{,}
-{-}22{,}SAS FM Surabaya{,}9999{,}{,}
-{-}21{,}Radio Kajian Islam{,}9999{,}{,}
-{-}20{,}Radio KITA Cirebon{,}9999{,}{,}
-{-}19{,}iDream Radio{,}9999{,}{,}
-{-}18{,}Krakatau Radio{,}9999{,}{,}
-{-}17{,}MQ FM{,}9999{,}{,}
-{-}16{,}Female Radio{,}9999{,}{,}
-{-}15{,}Delta FM{,}9999{,}{,}
-{-}14{,}Swaragama Jogja{,}9999{,}{,}
-{-}13{,}Prambors Semarang{,}9999{,}{,}
-{-}12{,}Prambors Solo{,}9999{,}{,}
-{-}11{,}Prambors Surabaya{,}9999{,}{,}
-{-}10{,}Rodja Bogor{,}9999{,}{,}
-{-}9{,}Prambors Jogja{,}9999{,}{,}
-{-}8{,}Radio Muslim Jogja{,}9999{,}{,}
-{-}7{,}Retjo Buntung{,}9999{,}{,}
-{-}6{,}Rakosa{,}9999{,}{,}
-{-}5{,}Trax FM{,}9999{,}{,}
-{-}4{,}HardRock FM Jakarta{,}9999{,}{,}
-{-}3{,}iRadio Jakarta{,}9999{,}{,}
-{-}2{,}Prambors Bandung{,}9999{,}{,}
-{-}1{,}Prambors Jakarta{,}9999{,}{,}
+{-}22{,}SAS FM Surabaya{,}9949{,}{,}
+{-}21{,}Radio Kajian Islam{,}9994{,}{,}
+{-}20{,}Radio KITA Cirebon{,}9998{,}{,}
+{-}19{,}iDream Radio{,}9991{,}{,}
+{-}18{,}Krakatau Radio{,}9996{,}{,}
+{-}17{,}MQ FM{,}9995{,}{,}
+{-}16{,}Female Radio{,}9998{,}{,}
+{-}15{,}Delta FM{,}9998{,}{,}
+{-}14{,}Swaragama Jogja{,}9996{,}{,}
+{-}13{,}Prambors Semarang{,}9997{,}{,}
+{-}12{,}Prambors Solo{,}9997{,}{,}
+{-}11{,}Prambors Surabaya{,}9995{,}{,}
+{-}10{,}Rodja Bogor{,}9997{,}{,}
+{-}9{,}Prambors Jogja{,}9997{,}{,}
+{-}8{,}Radio Muslim Jogja{,}9998{,}{,}
+{-}7{,}Retjo Buntung{,}9971{,}{,}
+{-}6{,}Rakosa{,}9994{,}{,}
+{-}5{,}Trax FM{,}9994{,}{,}
+{-}4{,}HardRock FM Jakarta{,}9998{,}{,}
+{-}3{,}iRadio Jakarta{,}9985{,}{,}
+{-}2{,}Prambors Bandung{,}9997{,}{,}
+{-}1{,}Prambors Jakarta{,}9998{,}{,}
